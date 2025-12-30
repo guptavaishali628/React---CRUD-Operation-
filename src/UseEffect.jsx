@@ -7,7 +7,7 @@ const UseEffect = () => {
     let inc=()=>{
         setcount(count+1)
     }
-    //-------------------------useEffect-----------------------
+    //-------------------------useEffect(stop the render of function when we jump from one to another page)----------------------
     useEffect( ()=>{
       console.log("Running");
     },[count])  //jitne bar count chalega utne bar function render hoga agar ye empty rhta to only one time function chalega
