@@ -1,22 +1,12 @@
 {
-    "movieTicket":[
-        {"name":"Vaishali",
-        "email":"vaishali@gmail.com",
-        "movie":"Dhurandhar",
-        "date":"01-01-2026",
-        "time":"2pm"
-         },
-        {"name":"Khushi",
-        "email":"khushi@gmail.com",
-        "movie":"Dhadak",
-        "date":"04-01-2026",
-        "time":"6pm"
-        },
-        {"name":"Ananya",
-        "email":"ananya@gmail.com",
-        "movie":"Saiyara",
-        "date":"30-12-2025",
-        "time":"1pm"
-        }
-    ]
+  "movieTicket": [
+    {
+      "name": "Ananya",
+      "email": "ananya@gmail.com",
+      "movie": "Saiyara",
+      "date": "30-12-2025",
+      "time": "1pm",
+      "id": "e5cc"
+    }
+  ]
 }
